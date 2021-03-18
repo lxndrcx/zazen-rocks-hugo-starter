@@ -6,3 +6,4 @@ seo:
   image: ''
 
 ---
+Zazen Rocks
